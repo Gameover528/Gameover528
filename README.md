@@ -6,10 +6,9 @@
 	<main>
 		<section>
 			<ul> 
-			  <li>👀 I’m interested in web developing.</li>
-			  <li> 🌱 I’m currently learning html,css,javascript,rpg(free) and integration with n8n(Working Daily).</li>
+			  <li> 👀 n8n developer by Sesa S.p.A</li>
+			  <li> 🌱 Web development for fun</li>
 			  <li> 📫 How to reach me: just chat me.</li>
-			  <li> ⚡ Fun fact: I'm just having fun nothing serious.</li>
 			</ul>
 		</section>
 	</main>
